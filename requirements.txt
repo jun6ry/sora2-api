@@ -3,4 +3,4 @@ streamlit
 pillow
 numpy
 fastapi 
-dotenv
+python-dotenv
