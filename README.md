@@ -32,7 +32,7 @@ Create a `.env` file:
 copy .env.example .env
 ```
 
-Then, add your Sora 2 API key to the .env file:
+Then, add your Sora 2 API key to the .env file: 
 ```bash
 API_KEY=  # your API key here
 ```
