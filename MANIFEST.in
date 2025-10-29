@@ -1,0 +1,3 @@
+include config/sora2_api.conf
+include config/watermark_remover.json
+
