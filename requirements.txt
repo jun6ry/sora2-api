@@ -1,7 +1,6 @@
 requests
-streamlit 
+streamlit
 pillow
 numpy
 fastapi 
 python-dotenv
-
