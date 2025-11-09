@@ -1,7 +1,7 @@
 #!/usr/env python
 #-*- coding: utf-8 -*-
 from __future__ import division
-import zipfile
+import zipfile 
 from pygraphml.GraphMLParser import *
 from pygraphml.Graph import *
 from pygraphml.Node import *
